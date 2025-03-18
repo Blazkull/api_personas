@@ -26,7 +26,7 @@
 1.  Clona el repositorio:
 
     ```bash
-    git clone [https://github.com/cran/DELTD](https://github.com/cran/DELTD)
+    git clone [(https://github.com/Blazkull/api_personas.git)
     cd [nombre del repositorio]
     ```
 
